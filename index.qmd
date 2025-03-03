@@ -1,7 +1,21 @@
 ---
-title: "Site teste..."
+title: "Denis C. M. Maciel"
+subtitle: "Tax auditor | Educator"
+about: 
+    template: jolla
+    links: 
+      - icon: github
+        text: Github
+        href: https://github.com/denismangia
+      - icon: linkedin
+        text: LinkedIn
+        href: https://linkedin.com/denismangia
 ---
 
-This is a Quarto website.
+A little bit about me and my life.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+{{< lipsum 1 >}}
+
+## Education
+
+Federal University of Itajubá | Brazil/MG | 1997-2022

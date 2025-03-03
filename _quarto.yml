@@ -3,20 +3,38 @@ project:
   output-dir: docs
 
 website:
-  title: "Site teste..."
+  title: "Home"
+  page-footer: "Made with Quarto | Copyright 2025, DCMM"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    search: false
+    right:
+      - href: about.qmd
+        text: "About..."
+        icon: megaphone
+      - href: another.qmd
+        text: "Another..."
+      - text: "Others social media"
+        menu: 
+          - icon: twitter
+            href: https://twitter.com
+          - icon: linkedin
+            href: https://linkedin.com/denismangia
+    tools:
+      - icon: github
+        href: github.com
+      - icon: linkedin
+        href: https://linkedin.com/denismangia
 
 format:
   html:
-    theme:
+    backgroundcolor: "#eeffee"
+    fontcolor: "darkgreen"
+    linkcolor: "black"
+    theme: 
       - cosmo
       - brand
     css: styles.css
-    toc: true
+    toc: false
 
 
 

@@ -1,0 +1,7 @@
+---
+title: "Another page"
+format: html
+---
+
+{{< lipsum 1 >}}
+
