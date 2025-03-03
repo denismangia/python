@@ -18,12 +18,12 @@ website:
           - icon: twitter
             href: https://twitter.com
           - icon: linkedin
-            href: https://linkedin.com/denismangia
+            href: https://linkedin.com/in/denismangia
     tools:
       - icon: github
         href: github.com
       - icon: linkedin
-        href: https://linkedin.com/denismangia
+        href: https://linkedin.com/in/denismangia
 
 format:
   html:
