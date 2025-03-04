@@ -16,12 +16,12 @@ website:
       - text: "Others social media"
         menu: 
           - icon: twitter
-            href: https://twitter.com
+            href: https://x.com/denismangia
           - icon: linkedin
             href: https://linkedin.com/in/denismangia
     tools:
       - icon: github
-        href: github.com
+        href: https://github.com/denismangia
       - icon: linkedin
         href: https://linkedin.com/in/denismangia
 

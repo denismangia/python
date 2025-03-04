@@ -12,10 +12,36 @@ about:
         href: https://linkedin.com/in/denismangia
 ---
 
-A little bit about me and my life.
+Minha formação acadêmica e atuação profissional posicionaram-me na fronteira entre a legislação tributária e a ciência de dados. De uma lado as regras que regem a relação Estado - contribuinte e de outro a análise de dados que devem gerar conhecimento e simplificação.\ 
+Meu plano inicial era se tornar acadêmico em universidade, mas os ventos da vida me colocaram na área de auditoria fiscal no setor público estadual, algo que abracei com alegria pois aprendi que a justiça tributária é necessária para o bom funcionamento do Estado.
 
-{{< lipsum 1 >}}
 
-## Education
+## Formação
 
-Federal University of Itajubá | Brazil/MG | 1997-2022
+Universidade de São Paulo - ICMC | São Carlos, SP\
+MBA em Ciências de Dados | 2023-2024
+
+Universidade de São Paulo - FEA | São Paulo, SP\
+Bacharel em Ciências Econômicas | 2018-2022
+
+Universidade de São Paulo - FEA | São Paulo, SP\
+Mestrado em Ciências Contábeis | 2013-2015
+
+Instituto Tecnológico de Aeronáutica - ITA | São José dos Campos, SP\
+Mestrado em Engenharia Eletrônica | 2003-2005
+
+Universidade Federal de Itajubá | Brasil, Itajubá, MG\
+Graduação em Engenharia Elétrica | 1997-2002
+
+## Experiência
+
+Auditor Fiscal da Secretaria da Fazenda e Planejamento do Estado de São Paulo | 2010 - presente
+
+Professor do MBA em Gestão Tributária da Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras - FIPECAFI | 2019 - 2023
+
+Diretor Estatutário em associação de classe (Afresp)\
+Diretoria Financeira (2015-2017) e Vice-Presidência (2018-2020)
+
+Auditor-Fiscal de Tributos Estaduais na Secretaria da Fazenda do Amazonas | 2006 - 2010
+
+

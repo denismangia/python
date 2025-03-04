@@ -4,14 +4,21 @@
     "href": "index.html",
     "title": "Denis C. M. Maciel",
     "section": "",
-    "text": "A little bit about me and my life.\nEtiam non efficitur urna, quis elementum nisi. Mauris posuere a augue vel gravida. Praesent luctus erat et ex iaculis interdum. Nulla vestibulum quam ac nunc consequat vulputate. Nullam iaculis lobortis sem sit amet fringilla. Aliquam semper, metus ut blandit semper, nulla velit fermentum sapien, fermentum ultrices dolor sapien sed leo. Vestibulum molestie faucibus magna, at feugiat nulla ullamcorper a. Aliquam erat volutpat. Praesent scelerisque magna a justo maximus, sit amet suscipit mauris tempor. Nulla nec dolor eget ipsum pellentesque lobortis a in ipsum. Morbi turpis turpis, fringilla a eleifend maximus, viverra nec neque. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."
+    "text": "Minha formação acadêmica e atuação profissional posicionaram-me na fronteira entre a legislação tributária e a ciência de dados. De uma lado as regras que regem a relação Estado - contribuinte e de outro a análise de dados que devem gerar conhecimento e simplificação.  Meu plano inicial era se tornar acadêmico em universidade, mas os ventos da vida me colocaram na área de auditoria fiscal no setor público estadual, algo que abracei com alegria pois aprendi que a justiça tributária é necessária para o bom funcionamento do Estado."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "index.html#formação",
+    "href": "index.html#formação",
     "title": "Denis C. M. Maciel",
-    "section": "Education",
-    "text": "Education\nFederal University of Itajubá | Brazil/MG | 1997-2022"
+    "section": "Formação",
+    "text": "Formação\nUniversidade de São Paulo - ICMC | São Carlos, SP\nMBA em Ciências de Dados | 2023-2024\nUniversidade de São Paulo - FEA | São Paulo, SP\nBacharel em Ciências Econômicas | 2018-2022\nUniversidade de São Paulo - FEA | São Paulo, SP\nMestrado em Ciências Contábeis | 2013-2015\nInstituto Tecnológico de Aeronáutica - ITA | São José dos Campos, SP\nMestrado em Engenharia Eletrônica | 2003-2005\nUniversidade Federal de Itajubá | Brasil, Itajubá, MG\nGraduação em Engenharia Elétrica | 1997-2002"
+  },
+  {
+    "objectID": "index.html#experiência",
+    "href": "index.html#experiência",
+    "title": "Denis C. M. Maciel",
+    "section": "Experiência",
+    "text": "Experiência\nAuditor Fiscal da Secretaria da Fazenda e Planejamento do Estado de São Paulo | 2010 - presente\nProfessor do MBA em Gestão Tributária da Fundação Instituto de Pesquisas Contábeis, Atuariais e Financeiras - FIPECAFI | 2019 - 2023\nDiretor Estatutário em associação de classe (Afresp)\nDiretoria Financeira (2015-2017) e Vice-Presidência (2018-2020)\nAuditor-Fiscal de Tributos Estaduais na Secretaria da Fazenda do Amazonas | 2006 - 2010"
   },
   {
     "objectID": "about.html",
@@ -25,6 +32,6 @@
     "href": "another.html",
     "title": "Another page",
     "section": "",
-    "text": "Duis urna urna, pellentesque eu urna ut, malesuada bibendum dolor. Suspendisse potenti. Vivamus ornare, arcu quis molestie ultrices, magna est accumsan augue, auctor vulputate erat quam quis neque. Nullam scelerisque odio vel ultricies facilisis. Ut porta arcu non magna sagittis lacinia. Cras ornare vulputate lectus a tristique. Pellentesque ac arcu congue, rhoncus mi id, dignissim ligula."
+    "text": "Vestibulum ultrices, tortor at mattis porta, odio nisi rutrum nulla, sit amet tincidunt eros quam facilisis tellus. Fusce eleifend lectus in elementum lacinia. Nam auctor nunc in massa ullamcorper, sit amet auctor ante accumsan. Nam ut varius metus. Curabitur eget tristique leo. Cras finibus euismod erat eget elementum. Integer vel placerat ex. Ut id eros quis lectus lacinia venenatis hendrerit vel ante."
   }
 ]
